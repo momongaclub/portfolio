@@ -9,6 +9,10 @@ img.programming_language{
     height: 25px;
     vertical-align:top;
 }
+img.banner {
+    width: 400px;
+    height: 100px;
+}
 li {
     text-indent:1em;
     }
