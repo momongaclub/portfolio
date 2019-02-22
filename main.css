@@ -1,0 +1,17 @@
+body {
+    background-color: #E6FFE9;
+    }
+img.icon {
+    width: 70px;
+}
+img.programming_language{
+    width: 30px;
+    height: 25px;
+    vertical-align:top;
+}
+li {
+    text-indent:1em;
+    }
+a {
+    margin-left:1em;
+  }
